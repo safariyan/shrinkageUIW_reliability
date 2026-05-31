@@ -21,7 +21,7 @@ library(RColorBrewer)
 library(patchwork)
 library(scales)
 
-setwd("C:/Users/Alireza/Desktop/18 conf/journal4")
+setwd("your address folder")
 set.seed(2026)
 
 ############################################################
